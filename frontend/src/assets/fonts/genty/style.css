@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Genty';
+    src: local('Genty Sans'), local('Genty-Sans'),
+        url('GentySans-Regular.woff2') format('woff2'),
+        url('GentySans-Regular.woff') format('woff'),
+        url('GentySans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }

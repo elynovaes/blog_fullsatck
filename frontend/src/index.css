@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Genty';
+    src: url("./assets/fonts/genty/GentySans-Regular.ttf") format('truetype');
+  }
+
+  @font-face {
+    font-family: 'Dosis';
+    font-weight: bold;
+    src: url("./assets/fonts/dosis/Dosis-Bold.ttf") format('truetype');
+  }
+}
